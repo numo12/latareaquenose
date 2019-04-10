@@ -1,0 +1,89 @@
+<html>
+<head>
+<title>Beneficios de tejas solares</title>
+   <style>
+body{
+    margin-left: 0pt;
+    margin-right: 0pt;
+    margin-top: 0pt;
+}
+p{
+    margin: 30px; 
+    margin-right: 50pt;
+}
+section{
+    font-size: 14px;
+    font: bold 30px ARIAL,monospace;
+    background-color: hotpink;
+    text-align: center;
+    text-transform:capitalize;
+    margin-left: 65px;
+    margin-right: 65px;
+    margin-top: 12px;
+}
+    #menu li {
+    display: inline;
+    padding: 9px;
+    font: bold 13px arial, sans-serif;
+    width: 902pt;
+}
+ul{ display: flex; }
+    a{text-decoration: none;}
+nav{ 
+    background-color: #FF6600;
+    text-align: left;
+    
+}
+table{
+    background-color: black;
+    width: 885pt;
+    height: 400pt;
+    margin: auto;
+}
+h3{
+  text-align: center;
+    font-size: 20pt;
+}
+header nav{
+    background: blue;
+    overflow: hidden;
+    font:bold 16px arial;
+    margin-left: 65px;
+    margin-right: 65px;
+}
+header nav ul{
+    list-style: none;
+}
+header nav ul li{
+    float: left;
+    margin-left: 141px;
+
+}
+header nav ul li a{
+    padding: 10px 10px;
+    display:block;
+    color:black;
+    text-decoration: none;
+    max-height: 21pt;
+}
+header nav ul li a:hover{
+    background: white;
+}
+</style>
+</head>
+<body>
+    <body background="imagen/2.GIF">
+<header>
+    <section> Beneficios y deventajas de los paneles solares</section>
+</div>
+   <nav>
+    <ul>
+<li><a href="Index.html">Inicio</a></li>
+<li><a href="Datos interesantes.html">Datos interesantes</a></li>
+<li><a href="videos.html">video</a></li>
+<li><a href="Beneficio.html">Beneficio</a></li>
+    </ul>
+    </nav>
+
+</body>
+</html>
